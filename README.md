@@ -107,5 +107,3 @@ You can specify a custom Ethereum Node endpoint by going to `settings` page. Cli
 
 ### I've imported a Multisig address or a contract address into address book but it gets detected as a EOA
 Make sure you're connected to the same network your Multisig/contract was created on, if you created it on Mainnet, you should then connect to Mainnet in order to let the system detect its type correctly.
-
-
